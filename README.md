@@ -3,7 +3,7 @@
 This code scrapes multiple elements from multiple web pages of an online bookstore at once. 
 
 INPUT: Starting by initiating an empty list that will hold our output "one_star_titles = []".
-Iterating to get info from the first five pages "for n in range (1,6):"
+Iterating to get info from the first five pages "for n in range (1,6):".
 
 OUTPUT: Running this code gives us our list "one_star_titles".
 The script gives us a list of all of the books that only have one star rating, in the first 5 pages of the website.
